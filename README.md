@@ -1,0 +1,2 @@
+# Scouting App
+This scouting app is a web-based application built with vanilla PHP, HTML, CSS, as well jQuery. On the client-side, data is collected in the form of a JSON object. Once data-collection is finished, various analyses are performed client-side and then formatted as a CSV row in a string. This string is sent to the database where it is added to data.csv. This data can then be imported into a spreadsheet and analyzed.
