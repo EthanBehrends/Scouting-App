@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'Arca';
+  src: url('assets/ArcaMajora3-Bold.otf')
+}
+@font-face {
+  font-family: 'Arvo';
+  src: url('assets/Arvo-Regular.ttf')
+}
+body{
+  margin: 0;
+  width: 100vw;
+  overflow-x: hidden;
+  position: relative;
+  background:url("assets/galaxy.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arvo, serif;
+  color: #EEEEFF;
+  text-align: center;
+}
+h1,h2,h3 {
+  font-family: Arca, sans-serif;
+  font-size: 2em;
+}
+#wrapper {
+  width: 100%;
+  max-width: 600px;
+  min-height: 100vh;
+  display: block;
+  padding: 50px;
+  margin:auto;
+  background-color: rgba(50 , 50, 50, 0.9);
+}
+#teaminfo img {
+  width: 200px;
+  max-width: 80%;
+}
+input {
+  text-align: center;
+}
+.button {
+  border: solid 4px #EEEEFF;
+  box-sizing: border-box;
+  width: 150px;
+  height: 60px;
+  margin: 25px auto;
+  font-size: 40px;
+  cursor: pointer;
+}
+.selected {
+  border-color: #9999aa;
+  color: #9999aa
+}
+.float {
+  float: left;
+  margin: 25px;
+}
+.clear {
+  clear: both;
+}
+#levels {
+  margin:auto;
+  width: 400px;
+}
+#position div {
+  display: inline-block;
+  margin: 12.5px;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
