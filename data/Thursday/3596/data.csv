@@ -1,0 +1,18 @@
+23, 3596, "Piece: hatch
+Cycle: 34.355
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 34.832
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 31.718
+Deposit: drop
+Sandstorm: true
+", 2, left, 0, NaN, NaN, 0, NaN, NaN, 2, 1, false, false, true, false, 3, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, undefined, false, 3, false, false, false, Poor, 
+28, 3596, "Piece: hatch
+Cycle: 51.566
+Deposit: ship
+Sandstorm: true
+", 1, left, 0, NaN, NaN, 0, 51.566, 0, 0, 0, true, false, true, false, 1, noattempt, noattempt, noattempt, false, true, true, false, true, false, false, false, false, false, undefined, false, 4, false, true, false, Poor, 

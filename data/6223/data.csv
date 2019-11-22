@@ -1,0 +1,106 @@
+8, 6223, "Piece: hatch
+Cycle: 156.87
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.15
+Deposit: ship
+Sandstorm: false
+", 1, left, 1, 1.15, 1.15, 1, 156.87, 156.87, 2, 0, true, false, false, true, 0, success, undefined, undefined, true, false, false, false, false, true, false, true, false, false, true, 4, false, true, false, Poor, Teo Rosales, 
+14, 6223, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, false, false, false, 0, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, N/A, Chase Harriman, Robot didn't show up
+20, 6223, "Piece: hatch
+Cycle: 9.632
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 46.03
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, NaN, NaN, 2, 1, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, Blake Gomez, Intake broke at the start of the teleop period 
+30, 6223, "Piece: hatch
+Cycle: 103.397
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, false, true, 0, success, undefined, undefined, true, false, true, false, false, false, false, false, false, false, false, 3, false, false, true, Poor, Abby, Broken? 
+37, 6223, "Piece: hatch
+Cycle: 17.104
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 22.957
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 2.829
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 5.306
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 4.449
+Deposit: drop
+Sandstorm: false
+", 1, right, 1, 2.829, 2.829, 1, 17.104, 17.104, 5, 0.6, true, undefined, false, true, 0, noattempt, noattempt, noattempt, true, false, false, false, false, true, false, false, false, false, true, 4, true, true, false, Average, Dawson Wright, 
+47, 6223, "Piece: hatch
+Cycle: 5.308
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 0.468
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.535
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.153
+Deposit: ship
+Sandstorm: false
+", 1, middle, 3, 3.3853333333333335, 10.156, 0, NaN, NaN, 4, 0.25, true, false, false, true, 0, success, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, true, 8, true, true, false, Average, Charlie Bergdall, 
+47, 6223, "Piece: hatch
+Cycle: 2.037
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 11.872
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 35.736
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 16.125
+Deposit: ship
+Sandstorm: false
+", 1, middle, 3, 21.244333333333334, 63.733000000000004, 0, NaN, NaN, 4, 0.25, true, false, false, true, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 7, false, true, false, Average, Dawson Wright, 
+65, 6223, "Piece: hatch
+Cycle: 23.178
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 6.334
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 42.101
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 3, 1, true, false, false, true, 0, noattempt, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, false, 1, false, false, true, Poor, Abby, 
+78, 6223, "Piece: hatch
+Cycle: 4.55
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 15.533
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 12.617
+Deposit: ship
+Sandstorm: false
+", 1, left, 2, 14.075, 28.15, 1, 4.55, 4.55, 3, 0, true, false, false, true, 0, failure, noattempt, noattempt, true, false, true, false, false, true, false, true, false, false, true, 7, false, true, false, Average, Brandon G., 
+87, 6223, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Average, Melvin Loo, no intake

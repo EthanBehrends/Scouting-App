@@ -1,0 +1,223 @@
+1, 6574, "Piece: hatch
+Cycle: 15.286
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 13.215
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 13.462
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 13.429
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 22.977
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 26.706
+Deposit: ship
+Sandstorm: false
+", 2, right, 4, 16.703, 66.812, 1, 15.286, 15.286, 6, 0.16666666666666666, true, false, false, true, 1, undefined, success, undefined, true, false, false, false, false, false, false, false, false, false, true, 6, false, true, false, Average, God, 
+11, 6574, "Piece: cargo
+Cycle: 2.96
+Deposit: ship
+Sandstorm: true
+", 2, left, 1, 2.96, 2.96, 0, NaN, NaN, 1, 0, false, false, false, false, 1, success, noattempt, noattempt, true, false, true, false, false, true, false, false, false, false, false, 4, false, true, true, Stellar, Melvin Loo, 
+19, 6574, "Piece: hatch
+Cycle: 2.478
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 5.296
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 3.191
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 2.908
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 2.841
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 2.624
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.971
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 2.458
+Deposit: rocket
+Sandstorm: false
+", 2, right, 6, 2.4988333333333337, 14.993000000000002, 2, 3.8870000000000005, 7.774000000000001, 8, 0, true, false, true, false, 1, success, noattempt, noattempt, true, true, true, false, true, true, false, true, false, true, false, 10, true, false, false, Stellar, Blake Gomez, Completed rocket
+
+45, 6574, "Piece: hatch
+Cycle: 7.937
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 11.983
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 17.024
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 5.701
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 19.59
+Deposit: drop
+Sandstorm: false
+", 2, right, 1, 5.701, 5.701, 2, 9.96, 19.92, 5, 0.4, true, false, false, true, 1, noattempt, noattempt, success, true, true, true, false, true, true, true, false, false, false, true, 8, true, true, false, Average, Dawson Wright, 
+45, 6574, "Piece: hatch
+Cycle: 12.119
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 11.964
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 23.366
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 16.734
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 30.823
+Deposit: drop
+Sandstorm: false
+", 2, right, 3, 17.354666666666667, 52.064, 1, 12.119, 12.119, 5, 0.2, true, false, false, true, 1, undefined, undefined, success, true, false, false, false, false, false, false, false, false, false, true, 6, false, true, false, Average, God, 
+52, 6574, "Piece: hatch
+Cycle: 2.749
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 15.482
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 26.723
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 21.716
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 11.81
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 3.01
+Deposit: drop
+Sandstorm: false
+", 2, right, 4, 18.93275, 75.731, 1, 2.749, 2.749, 6, 0.16666666666666666, false, true, true, false, 2, noattempt, noattempt, noattempt, true, false, true, false, false, true, false, true, false, true, false, 5, true, false, false, Average, Blake Gomez, Almost got full rocket. 
+59, 6574, "Piece: hatch
+Cycle: 22.427
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 7.231
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 5.629
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 42.724
+Deposit: drop
+Sandstorm: false
+", 1, right, 1, 5.629, 5.629, 0, NaN, NaN, 4, 0.75, true, false, true, false, 0, success, noattempt, success, true, true, true, false, false, false, false, false, false, false, true, 7, true, true, false, Average, Charlie Bergdall, 
+64, 6574, "Piece: hatch
+Cycle: 63.08
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 6.499
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.191
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 2.384
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.374
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.507
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 5.142
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 16.165
+Deposit: drop
+Sandstorm: false
+", 2, left, 4, 3.8497500000000002, 15.399000000000001, 0, NaN, NaN, 8, 0.5, true, false, false, true, 0, noattempt, noattempt, success, false, true, false, true, false, true, false, false, false, false, true, 7, false, true, false, Average, Henry Walston, 
+81, 6574, "Piece: hatch
+Cycle: 47.083
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 7.143
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.319
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 3.999
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.454
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.451
+Deposit: drop
+Sandstorm: false
+", 2, left, 3, 6.865333333333333, 20.596, 1, 47.083, 47.083, 6, 0.3333333333333333, true, false, false, true, 1, undefined, undefined, success, true, false, true, false, false, true, false, false, false, false, false, 6, true, false, false, Average, Brooke C, 
+90, 6574, "Piece: hatch
+Cycle: 10.359
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 13.14
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 6.639
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 17.91
+Deposit: ship
+Sandstorm: false
+", 2, left, 3, 12.563, 37.689, 1, 10.359, 10.359, 4, 0, true, false, false, true, 1, success, noattempt, failure, true, true, true, false, true, true, false, false, false, false, true, 9, false, false, true, Stellar, Kyle, 

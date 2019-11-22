@@ -1,0 +1,26 @@
+8, 6643, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, noattempt, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, God, 
+13, 6643, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, noattempt, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, Brandon G., 
+19, 6643, "Piece: hatch
+Cycle: 5.399
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 30.515
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 8.61
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 1, 5.399, 5.399, 3, 0.6666666666666666, true, false, true, false, 1, success, noattempt, noattempt, true, true, true, false, true, false, false, false, false, false, false, 1, false, true, false, Poor, Kyle, 
+34, 6643, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 3, false, false, true, Poor, Quinlan, 
+42, 6643, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 1, false, false, true, Poor, Abby, 
+50, 6643, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, true, undefined, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Average, Brandon G., 
+58, 6643, "Piece: hatch
+Cycle: 68.822
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 1, 1, undefined, false, false, true, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, Justin Weeks, 
+71, 6643, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Quinlan, Only a defense not bot but can’t defend well
+79, 6643, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, undefined, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Dawson Wright, Seemed confused as to what to do
+87, 6643, "", 1, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, noattempt, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, Poor, Ryan Hovey, It looked like they were having technical difficulties; their robot moved only at the beginning of the match then stopped and didn’t move again.

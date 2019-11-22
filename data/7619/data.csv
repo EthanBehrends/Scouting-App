@@ -1,0 +1,34 @@
+2, 7619, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, undefined, false, 0, failure, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, Poor, Quinlan, They didn’t start with anything on the robot and we’re disconnected the whole time 
+10, 7619, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, success, undefined, undefined, false, true, false, false, false, false, false, false, false, false, false, 6, false, false, false, Poor, God, 
+26, 7619, "Piece: hatch
+Cycle: 52.404
+Deposit: ship
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 1, 52.404, 52.404, 1, 0, true, false, true, false, 0, noattempt, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 4, false, true, false, Poor, Charlie Bergdall, Robot was disabled shortly after the end of th e sandstorm 
+35, 7619, "Piece: hatch
+Cycle: 74.231
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 47.138
+Deposit: rocket
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 2, 60.6845, 121.369, 2, 0, true, false, true, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, true, false, false, false, false, 4, true, false, false, Poor, Justin Weeks, 
+44, 7619, "Piece: hatch
+Cycle: 114.674
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 45.587
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, NaN, NaN, 2, 1, true, false, true, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, true, false, false, false, false, 4, true, false, false, Poor, Brandon G., 
+53, 7619, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 2, false, false, true, Poor, Blake Gomez, 
+59, 7619, "Piece: hatch
+Cycle: 10.688
+Deposit: rocket
+Sandstorm: true
+", 1, right, 0, NaN, NaN, 1, 10.688, 10.688, 1, 0, true, false, true, false, 1, success, noattempt, failure, false, true, false, false, false, false, false, false, false, false, false, 4, false, false, true, Average, Blake Gomez, 
+67, 7619, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, success, success, success, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Average, Brandon G., 
+76, 7619, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, success, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, false, 2, false, false, true, Average, Dawson Wright, Intake kept leaving perimeter on defense
+84, 7619, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Stellar, Ryan Hovey, 

@@ -1,0 +1,154 @@
+7, 7103, "Piece: hatch
+Cycle: 139.987
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 10.346
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 1.2
+Deposit: rocket
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 2, 70.59349999999999, 141.18699999999998, 3, 0.3333333333333333, true, false, true, false, 1, success, undefined, undefined, true, true, false, false, true, true, true, true, true, true, false, 5, true, false, false, Average, Teo Rosales, 
+14, 7103, "Piece: hatch
+Cycle: 2.809
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 15.031
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 10.006
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 1, 15.031, 15.031, 3, 0.6666666666666666, true, false, true, false, 0, failure, noattempt, noattempt, true, true, false, false, false, true, false, true, false, false, false, 6, true, false, false, Poor, Blake Gomez, 
+21, 7103, "Piece: hatch
+Cycle: 11.647
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 25.434
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 14.542
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 11.912
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 16.544
+Deposit: drop
+Sandstorm: false
+", 1, left, 1, 11.912, 11.912, 2, 13.0945, 26.189, 5, 0.4, true, false, true, false, 1, success, noattempt, noattempt, true, true, false, false, false, false, true, true, false, false, false, 6, true, false, false, Average, Leah Wellman, 
+33, 7103, "Piece: hatch
+Cycle: 4.673
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 17.325
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 9.049
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 2, 10.998999999999999, 21.997999999999998, 3, 0.3333333333333333, true, false, true, false, 1, noattempt, noattempt, noattempt, false, true, false, false, false, false, true, false, false, false, false, 3, true, false, false, Average, Dawson Wright, 
+42, 7103, "Piece: hatch
+Cycle: 2.301
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 19.319
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 27.317
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 19.897
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 21.836
+Deposit: rocket
+Sandstorm: false
+", 1, right, 1, 21.836, 21.836, 3, 22.177666666666664, 66.53299999999999, 5, 0.2, true, false, true, false, 0, success, undefined, undefined, true, true, false, false, false, false, true, true, false, false, false, 6, true, false, false, Average, God, 
+48, 7103, "Piece: hatch
+Cycle: 4.85
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 29.914
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 18.35
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 2, 17.382, 34.764, 3, 0.3333333333333333, undefined, true, true, false, 1, noattempt, noattempt, noattempt, true, true, true, false, true, false, false, false, false, false, false, 2, true, false, false, Poor, Blake Gomez, 
+63, 7103, "Piece: hatch
+Cycle: 17.013
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 35.284
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 18.481
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 34.92
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 3, 23.592666666666663, 70.77799999999999, 4, 0.25, true, false, true, false, 0, failure, noattempt, noattempt, true, true, false, false, true, false, true, false, true, false, false, 6, true, false, false, Average, Dawson Wright, 
+68, 7103, "Piece: hatch
+Cycle: 14.815
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 14.44
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 10.578
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 13.309
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 26.825
+Deposit: rocket
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 4, 17.34725, 69.389, 5, 0.2, true, false, true, false, 1, success, noattempt, noattempt, false, true, false, false, false, false, true, false, true, false, false, 7, true, false, false, Average, Dawson Wright, 
+73, 7103, "Piece: hatch
+Cycle: 39.11
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 16.753
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 21.779
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 0.4
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 1, 16.753, 16.753, 4, 0.75, true, false, true, false, 0, noattempt, noattempt, noattempt, false, true, false, false, true, false, true, false, false, false, false, 7, true, true, false, Average, Charlie Bergdall, Dropped a hatch on their robot, so they couldn't use multiple game pieces
+84, 7103, "Piece: hatch
+Cycle: 30.588
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, failure, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, false, 3, false, false, true, Poor, Blake Gomez, Failed to cross hab line

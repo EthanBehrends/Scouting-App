@@ -1,0 +1,33 @@
+2830, 55, "Piece: hatch
+Cycle: 2.995
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 9.81
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.282
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 6.622
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 8.441
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 9.291
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 6.829
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 11.42
+Deposit: ship
+Sandstorm: false
+", 2, left, 3, 9.127666666666666, 27.383, 3, 7.081333333333333, 21.244, 8, 0.25, true, false, true, false, 1, noattempt, success, noattempt, true, true, false, false, true, false, false, false, false, false, true, 6, false, true, false, Average, Leah Wellman, 

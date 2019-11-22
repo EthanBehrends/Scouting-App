@@ -1,0 +1,25 @@
+29, 1733, "Piece: hatch
+Cycle: 10.809
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 11.479
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 1.642
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 10.816
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 14.949
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 17.257
+Deposit: drop
+Sandstorm: false
+", 2, middle, 1, 14.949, 14.949, 1, 11.034666666666666, 11.034666666666666, 5, 0.3333333333333333, true, false, true, false, 1, noattempt, noattempt, noattempt, true, true, false, false, true, false, true, true, false, false, undefined, false, 6, true, false, false, Average, 

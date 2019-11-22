@@ -1,0 +1,25 @@
+30, 1038, "Piece: hatch
+Cycle: 69.878
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.468
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 10.213
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.495
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 6.9
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 7.918
+Deposit: rocket
+Sandstorm: true
+", 2, left, 1, 7.918, 7.918, 1, 21.8715, 21.8715, 5, 0.16666666666666666, false, true, true, false, 6, noattempt, noattempt, failure, true, true, true, false, true, true, false, false, false, false, undefined, false, 5, true, false, false, Average, 

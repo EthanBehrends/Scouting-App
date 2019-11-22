@@ -1,0 +1,13 @@
+5, 4787, "Piece: hatch
+Cycle: 4.679
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 9.876
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 13.854
+Deposit: ship
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 0, 11.864999999999998, 0, 2, 0.3333333333333333, true, false, true, false, 3, noattempt, success, noattempt, false, true, false, false, true, false, false, false, false, false, undefined, false, 5, false, true, false, Average, 

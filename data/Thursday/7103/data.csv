@@ -1,0 +1,65 @@
+3, 7103, "Piece: hatch
+Cycle: 8.037
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 29.307
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 16.117
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.648
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, 18.672, 0, 3, 0.5, true, false, true, false, 0, noattempt, noattempt, noattempt, true, true, false, false, false, false, true, true, false, false, undefined, false, 5, true, false, false, Average, Only robot, super slow
+3, 7103, "Piece: hatch
+Cycle: 8.037
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 29.307
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 16.117
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.648
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, 18.672, 0, 3, 0.5, true, false, true, false, 0, noattempt, noattempt, noattempt, true, true, false, false, false, false, true, true, false, false, undefined, false, 5, true, false, false, Average, Only robot, super slow
+23, 7103, "Piece: hatch
+Cycle: 44.594
+Deposit: ship
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, 44.594, 0, 0, 0, true, false, true, false, 0, noattempt, undefined, undefined, false, true, false, false, true, false, false, false, false, false, undefined, false, 6, true, false, false, Average, 
+26, 7103, "Piece: hatch
+Cycle: 18.396
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 75.231
+Deposit: drop
+Sandstorm: true
+", 1, left, 0, NaN, NaN, 0, 18.396, 0, 1, 0.5, true, false, true, false, 2, noattempt, undefined, undefined, true, true, false, false, false, false, false, false, false, false, undefined, false, 5, false, false, false, Poor, 
+35, 7103, "Piece: hatch
+Cycle: 25.719
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 33.099
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 17.357
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 53.787
+Deposit: rocket
+Sandstorm: false
+", 1, right, 1, 53.787, 53.787, 1, 25.391666666666666, 25.391666666666666, 3, 0, true, false, true, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, true, false, true, false, undefined, false, 6, true, false, false, Average, 

@@ -1,0 +1,25 @@
+29, 6598, "Piece: hatch
+Cycle: 9.413
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 4.891
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.651
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 6.721
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 27.642
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 12.808
+Deposit: drop
+Sandstorm: false
+", 2, right, 2, 6.771, 13.542, 1, 9.413, 9.413, 6, 0.5, true, false, true, false, 1, success, undefined, failure, true, true, true, false, true, true, false, false, false, false, true, 8, false, true, false, Stellar, Abby, 

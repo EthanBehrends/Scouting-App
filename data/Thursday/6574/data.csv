@@ -1,0 +1,80 @@
+5, 6574, "Piece: cargo
+Cycle: 6.332
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 5.95
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.783
+Deposit: ship
+Sandstorm: false
+", 2, right, 3, 6.6883333333333335, 20.065, 3, NaN, NaN, 2, 0, false, false, false, false, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, undefined, true, 7, false, true, false, Average, Took a lot of time to get cargo 
+25, 6574, "Piece: hatch
+Cycle: 24.45
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 21.695
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 6.658
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.075
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.722
+Deposit: ship
+Sandstorm: false
+", 2, right, 3, 8.151666666666666, 24.455, 3, 23.072499999999998, 69.2175, 4, 0, true, false, false, true, 0, success, noattempt, noattempt, true, true, true, false, true, false, false, false, false, false, undefined, true, 5, true, false, false, Average, 
+35, 6574, "Piece: hatch
+Cycle: 18.149
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 18.191
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 19.355
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 11.556
+Deposit: ship
+Sandstorm: false
+", 1, left, 2, 14.8735, 29.747, 2, 18.149, 36.298, 3, 0.25, true, false, false, true, 0, noattempt, noattempt, noattempt, true, true, false, true, true, true, false, true, false, false, undefined, true, 7, false, true, false, Average, 
+65, 6574, "Piece: hatch
+Cycle: 77.413
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 11.499
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 1.498
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 10.9
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 23.768
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 0.732
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 2.382
+Deposit: rocket
+Sandstorm: true
+", 1, right, 2, 1.115, 2.23, 2, 30.43133333333333, 60.86266666666666, 6, 0.2857142857142857, true, false, false, true, 7, success, noattempt, noattempt, true, true, true, false, false, false, true, true, true, false, undefined, false, 5, true, false, false, Average, Troble with hatch intake

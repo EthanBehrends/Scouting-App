@@ -1,0 +1,82 @@
+4, 7915, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, true, 0, success, noattempt, noattempt, true, false, true, false, false, true, false, false, false, false, true, 4, false, true, false, Average, Ryan Hovey, It looked like they were having technical difficulties during the match.
+10, 7915, "Piece: hatch
+Cycle: 29.554
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 27.13
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 1.791
+Deposit: drop
+Sandstorm: true
+", 1, right, 0, NaN, NaN, 1, 27.13, 27.13, 3, 0.6666666666666666, true, false, true, false, 1, success, undefined, undefined, false, true, false, false, true, false, false, false, false, false, false, 4, true, false, false, Average, Molly Maples, put everything bin sandstorm
+25, 7915, "Piece: hatch
+Cycle: 96.234
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.201
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 1, 96.234, 96.234, 2, 0.5, true, false, false, true, 0, success, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, true, 4, false, true, false, Poor, Kyle, 
+34, 7915, "Piece: hatch
+Cycle: 24.87
+Deposit: ship
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 1, 24.87, 24.87, 1, 0, false, true, false, true, 0, success, failure, noattempt, true, false, false, false, false, false, false, false, false, false, true, 4, false, true, true, Average, Dawson Wright, 
+45, 7915, "Piece: hatch
+Cycle: 13.316
+Deposit: ship
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 1, 13.316, 13.316, 1, 0, true, false, false, true, 0, noattempt, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 1, false, false, true, Poor, Blake Gomez, 
+54, 7915, "Piece: hatch
+Cycle: 27.202
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 6.505
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 39.479
+Deposit: ship
+Sandstorm: false
+", 2, left, 1, 39.479, 39.479, 0, NaN, NaN, 3, 0.6666666666666666, true, false, false, true, 0, failure, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, false, 3, false, true, false, Poor, Justin Weeks, 
+61, 7915, "Piece: hatch
+Cycle: 20.202
+Deposit: ship
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 1, 20.202, 20.202, 1, 0, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, true, 5, false, false, true, Average, Justin Weeks, 
+69, 7915, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, true, Average, Charlie Bergdall, 
+75, 7915, "Piece: hatch
+Cycle: 18.652
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 21.329
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 11.093
+Deposit: ship
+Sandstorm: false
+", 2, right, 2, 16.211, 32.422, 1, 18.652, 18.652, 3, 0, true, false, false, true, 0, failure, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 6, false, true, false, Average, Charlie Bergdall, Had two pieces of cargo at one time
+85, 7915, "Piece: hatch
+Cycle: 20.048
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 18.279
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 24.763
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 19.808
+Deposit: drop
+Sandstorm: false
+", 2, left, 1, 18.279, 18.279, 0, NaN, NaN, 4, 0.75, true, false, false, true, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 3, false, true, false, Average, Melvin Loo, 

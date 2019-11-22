@@ -1,0 +1,126 @@
+5, 279, "Piece: hatch
+Cycle: 20.636
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 10.315
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.584
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 4.423
+Deposit: drop
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 3, 10.511666666666667, 31.535, 4, 0.25, false, false, false, false, 3, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 7, false, true, false, Average, Ryan Hovey, For got to hit end sandstorm, what I entered in for sandstorm was all teleop and they didn’t do anything in sandstorm other that cross the hab line. They also had a ramp to get another team to level 3 but the other robot got stuck on it trying to go up it.
+12, 279, "Piece: hatch
+Cycle: 2.849
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 23.8
+Deposit: ship
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 1, 23.8, 23.8, 2, 0.5, false, false, false, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, false, true, false, Poor, Blake Gomez, Tie
+25, 279, "Piece: hatch
+Cycle: 0.434
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 0.418
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 0.434
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 0.302
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 1.704
+Deposit: ship
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 3, 0.852, 2.556, 5, 0.4, false, true, false, false, 0, success, success, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, true, true, false, Average, Charlie Bergdall, 
+35, 279, "Piece: hatch
+Cycle: 23.666
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 12.788
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 31.604
+Deposit: drop
+Sandstorm: true
+", 2, left, 0, NaN, NaN, 2, 18.227, 36.454, 3, 0.3333333333333333, true, true, undefined, false, 2, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 3, false, true, false, Poor, Kyle, 
+41, 279, "Piece: hatch
+Cycle: 23.611
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 30.19
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 14.618
+Deposit: rocket
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 2, 19.1145, 38.229, 3, 0.3333333333333333, true, false, undefined, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, true, true, false, Average, Ally, Ramp to assist level 3 climb
+50, 279, "Piece: hatch
+Cycle: 12.127
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 11.731
+Deposit: ship
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 2, 11.929, 23.858, 2, 0, undefined, false, false, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 2, false, true, false, Poor, Blake Gomez, Lvl 3 assist climb with ramp. Slow,.
+57, 279, "Piece: hatch
+Cycle: 29.123
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 7.109
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 15.809
+Deposit: drop
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 2, 18.116, 36.232, 3, 0.3333333333333333, true, true, false, false, 0, noattempt, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, false, true, false, Average, Leah Wellman, 
+65, 279, "Piece: hatch
+Cycle: 9.352
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 7.317
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 15.93
+Deposit: ship
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 2, 12.641, 25.282, 3, 0.3333333333333333, true, true, undefined, false, 0, success, success, noattempt, false, true, false, false, true, false, false, false, false, false, false, 6, false, true, false, Average, Charlie Bergdall, 
+74, 279, "Piece: hatch
+Cycle: 0.418
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 1.571
+Deposit: ship
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 2, 0.9944999999999999, 1.9889999999999999, 2, 0, true, true, false, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 7, false, true, false, Average, Charlie Bergdall, 
+90, 279, "Piece: hatch
+Cycle: 13.246
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 11.517
+Deposit: ship
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 2, 12.381499999999999, 24.762999999999998, 2, 0, true, true, false, false, 0, success, failure, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, false, true, false, Poor, Ryan Hovey, 

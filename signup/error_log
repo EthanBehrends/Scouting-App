@@ -1,0 +1,4 @@
+[28-Mar-2019 09:14:20 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/ethampou/public_html/Scouting2ElectricBoogaloo/signup/index.php on line 58
+[28-Mar-2019 09:14:23 America/New_York] PHP Fatal error:  Only variables can be passed by reference in /home/ethampou/public_html/Scouting2ElectricBoogaloo/signup/index.php on line 58
+[28-Mar-2019 09:15:32 America/New_York] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/ethampou/public_html/Scouting2ElectricBoogaloo/signup/index.php on line 58
+[28-Mar-2019 09:15:36 America/New_York] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/ethampou/public_html/Scouting2ElectricBoogaloo/signup/index.php on line 58

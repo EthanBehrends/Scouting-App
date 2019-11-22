@@ -1,0 +1,88 @@
+6, 3596, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, N/A, Ryan Hovey, Match got reset due to a lost bumper, ignore this.
+6, 3596, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, true, Average, Ryan Hovey, This is the actual match 6, the other got reset due to a lost bumper on the other side.
+11, 3596, "Piece: hatch
+Cycle: 23.809
+Deposit: drop
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, false, true, 0, success, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Teo Rosales, 
+11, 3596, "Piece: hatch
+Cycle: 25.754
+Deposit: drop
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Brandon G., 
+27, 3596, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, true, Average, Leah Wellman, 
+35, 3596, "Piece: cargo
+Cycle: 54.04
+Deposit: ship
+Sandstorm: false
+", 2, left, 1, 54.04, 54.04, 0, NaN, NaN, 1, 0, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, N/A, Dawson Wright, 
+42, 3596, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, undefined, false, false, 0, noattempt, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 1, false, false, false, Poor, Brandon G., 
+53, 3596, "Piece: hatch
+Cycle: 3.977
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 51.065
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 17.06
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 14.751
+Deposit: drop
+Sandstorm: false
+", 2, left, 1, 51.065, 51.065, 0, NaN, NaN, 4, 0.75, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, false, false, false, false, false, false, false, 5, false, true, false, Poor, Justin Weeks, 
+62, 3596, "Piece: cargo
+Cycle: 23.583
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 13.145
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.435
+Deposit: ship
+Sandstorm: false
+", 2, right, 1, 0.435, 0.435, 0, NaN, NaN, 3, 0.6666666666666666, true, false, false, false, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 4, false, true, false, Poor, Charlie Bergdall, 
+70, 3596, "Piece: cargo
+Cycle: 2.8
+Deposit: drop
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, undefined, false, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 6, false, false, true, Poor, Brandon G., 
+77, 3596, "Piece: hatch
+Cycle: 2.732
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 5.113
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 4.594
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 4.661
+Deposit: ship
+Sandstorm: false
+", 1, right, 2, 4.8870000000000005, 9.774000000000001, 0, NaN, NaN, 4, 0.5, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, true, 3, false, true, false, Poor, Blake Gomez, 
+89, 3596, "Piece: cargo
+Cycle: 9.494
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 14.886
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 3.76
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 11.752
+Deposit: drop
+Sandstorm: false
+", 2, right, 1, 9.494, 9.494, 0, NaN, NaN, 4, 0.75, true, true, false, false, 0, success, noattempt, noattempt, true, false, true, false, false, true, false, false, false, false, true, 5, false, true, false, Poor, Ryan Hovey, 

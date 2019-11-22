@@ -1,0 +1,37 @@
+43, 4717, "Piece: hatch
+Cycle: 9.551
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.584
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 19.525
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 12.766
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 4.067
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 1.19
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.024
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 10.49
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 6.825
+Deposit: ship
+Sandstorm: false
+", 2, left, 5, 6.5744, 32.872, 3, 13.188666666666668, 39.566, 9, 0.1111111111111111, true, false, true, false, 1, noattempt, success, noattempt, true, true, false, false, true, true, true, false, false, false, true, 7, true, true, false, Average, Henry Walston, 

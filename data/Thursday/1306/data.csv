@@ -1,0 +1,55 @@
+10, 1306, "Piece: hatch
+Cycle: 31.816
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 7.171
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.754
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 16.862
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 2.199
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.715
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 19.885
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 13.123
+Deposit: drop
+Sandstorm: false
+", 1, left, 5, 10.7664, 53.83200000000001, 5, 31.816, 159.07999999999998, 7, 0.25, true, false, false, true, 1, noattempt, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, undefined, true, 8, true, true, false, Average, 
+20, 1306, "Piece: hatch
+Cycle: 32.924
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 14.599
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 15.266
+Deposit: drop
+Sandstorm: true
+", 2, left, 0, NaN, NaN, 0, 23.761499999999998, 0, 2, 0.3333333333333333, true, false, false, true, 3, undefined, undefined, success, true, true, true, false, true, true, false, false, false, false, undefined, true, 6, false, true, false, Average, Assisted climb
+34, 1306, "Piece: hatch
+Cycle: 28.468
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 9.371
+Deposit: ship
+Sandstorm: false
+", 2, middle, 0, NaN, NaN, 0, 9.371, 0, 1, 0.5, true, false, true, false, 0, success, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 6, false, false, false, Poor, 

@@ -1,0 +1,127 @@
+532, 643, "Piece: hatch
+Cycle: 1.877
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 1.533
+Deposit: drop
+Sandstorm: true
+", 1, right, 0, NaN, NaN, 0, 1.877, 0, 1, 0.5, true, true, false, true, success, failure, noattempt, true, true, true, false, false, true, true, false, false, true, undefined, true, 9, false, true, true, Stellar, fdwgwa
+532, 643, "Piece: hatch
+Cycle: 1.137
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 1.372
+Deposit: drop
+Sandstorm: true
+", 1, right, 0, NaN, NaN, 0, 1.137, 0, 1, 0.5, false, true, true, false, success, failure, noattempt, true, false, true, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdwgwa
+532, 643, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdwgwa
+532, 643, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdwgwa
+1000, 4325, "Piece: hatch
+Cycle: 1.532
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.531
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.716
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 0.514
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.758
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, 0.859, 0, 4, 0.4, true, true, true, false, success, failure, failure, true, true, true, true, false, true, true, true, true, true, undefined, false, 8, false, false, true, Stellar, gfsgf
+3194, 1646, "Piece: hatch
+Cycle: 3.34
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.657
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 1.267
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.727
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.805
+Deposit: ship
+Sandstorm: false
+", 1, right, 1, 0.805, 0.805, 1, 1.7546666666666664, 1.7546666666666664, 4, 0.2, false, true, true, false, success, failure, noattempt, false, true, true, false, false, true, true, false, true, false, undefined, true, 8, true, true, true, Stellar, Jsucnwnf
+432, 52, "Piece: hatch
+Cycle: 2.536
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.616
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.561
+Deposit: drop
+Sandstorm: true
+", 1, right, 1, 0.616, 0.616, 1, 2.536, 2.536, 2, 0.3333333333333333, false, true, true, false, success, failure, noattempt, true, true, true, false, false, true, true, true, true, true, undefined, false, 8, false, false, true, Stellar, fdnsjkafdlbs
+432, 52, "Piece: hatch
+Cycle: 1.46
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.626
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 0.603
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.713
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 0.595
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.546
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 0.522
+Deposit: ship
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, 0.7949999999999999, 0, 6, 0.42857142857142855, true, false, false, true, success, failure, noattempt, true, false, false, true, false, true, true, false, false, true, undefined, false, 9, false, true, true, Stellar, fdnsjkafdlbs
+432, 52, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdnsjkafdlbs
+432, 52, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdnsjkafdlbs
+432, 52, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdnsjkafdlbs
+432, 52, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, fdnsjkafdlbs
+4314, 32535, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 6, false, false, false, N/A, 42354231
+3000, 1000, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 6, false, false, false, N/A, 42354231
+200, 3300, "Piece: hatch
+Cycle: 4.57
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.754
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 0.547
+Deposit: ship
+Sandstorm: true
+", 1, right, 1, 0.547, 0.547, 1, 4.57, 4.57, 2, 0.3333333333333333, true, true, true, false, success, failure, noattempt, true, false, true, false, false, true, true, false, false, true, undefined, false, 9, false, true, true, Stellar, bhjkbh
+200, 3300, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, bhjkbh
+200, 3300, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, bhjkbh
+200, 3300, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 9, false, false, false, N/A, bhjkbh
+54, 1234, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, false, false, false, false, undefined, undefined, undefined, false, false, false, false, false, false, false, false, false, false, undefined, false, 6, false, false, false, N/A, 

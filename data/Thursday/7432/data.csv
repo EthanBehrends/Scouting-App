@@ -1,0 +1,60 @@
+9, 7432, "Piece: hatch
+Cycle: 13.874
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 25.876
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 22.634
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 33.27
+Deposit: rocket
+Sandstorm: true
+", 2, left, 1, 22.634, 22.634, 1, 33.27, 33.27, 3, 0.5, true, false, true, false, 4, noattempt, noattempt, noattempt, true, true, true, false, true, false, false, false, false, false, undefined, true, 5, true, false, false, Poor, 
+16, 7432, "Piece: hatch
+Cycle: 146.093
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 0.724
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 4.22
+Deposit: ship
+Sandstorm: false
+", 1, left, 2, 2.472, 4.944, 2, NaN, NaN, 2, 0.3333333333333333, true, false, true, false, 1, noattempt, noattempt, noattempt, true, true, true, false, false, false, false, false, false, false, undefined, true, 5, false, true, false, Average, 
+25, 7432, "Piece: hatch
+Cycle: 35.347
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 35.036
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 13.528
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 24.962
+Deposit: rocket
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, 24.612333333333336, 0, 3, 0.25, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, true, true, false, false, true, false, undefined, false, 3, true, false, false, Average, 
+36, 7432, "Piece: hatch
+Cycle: 26.841
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 8.909
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 18.412
+Deposit: rocket
+Sandstorm: false
+", 1, left, 2, 13.660499999999999, 27.320999999999998, 2, 26.841, 53.682, 2, 0, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, true, false, true, true, false, false, undefined, false, 2, true, false, false, Average, 

@@ -1,0 +1,106 @@
+9, 4804, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, noattempt, noattempt, success, false, false, false, false, false, false, false, false, false, false, false, 2, false, false, true, N/A, Dawson Wright, 
+14, 4804, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, false, false, false, 0, success, noattempt, success, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Melvin Loo, 
+24, 4804, "Piece: hatch
+Cycle: 0.434
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 0.451
+Deposit: rocket
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 2, 0.4425, 0.885, 2, 0, true, false, false, false, 2, success, noattempt, failure, false, true, false, false, true, false, false, false, false, false, false, 4, true, false, false, Average, Charlie Bergdall, 
+34, 4804, "Piece: hatch
+Cycle: 23.048
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 0.485
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 2.939
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 0.518
+Deposit: ship
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 2, 0.5015000000000001, 1.0030000000000001, 4, 0.5, true, false, false, false, 0, success, noattempt, failure, false, true, false, false, true, false, true, false, false, false, false, 5, true, false, false, Average, Charlie Bergdall, 
+41, 4804, "Piece: hatch
+Cycle: 16.069
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.566
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 9.159
+Deposit: ship
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 2, 12.614, 25.228, 3, 0.3333333333333333, true, false, false, false, 2, noattempt, noattempt, success, false, true, false, false, false, true, false, false, false, false, false, 6, false, true, false, Average, Henry Walston, No sandstorm score
+47, 4804, "Piece: hatch
+Cycle: 15.053
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 12.635
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 2.023
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 4.937
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 11.399
+Deposit: rocket
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 5, 9.2094, 46.047000000000004, 5, 0, true, false, false, false, 0, success, success, noattempt, false, true, false, false, true, false, true, false, true, false, false, 9, true, true, false, Average, Brandon G., 
+55, 4804, "Piece: hatch
+Cycle: 1.745
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 20.194
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.452
+Deposit: ship
+Sandstorm: false
+", 2, right, 1, 8.452, 8.452, 2, 10.9695, 21.939, 3, 0, true, false, true, false, 1, success, noattempt, failure, true, true, true, false, true, false, false, false, false, false, true, 5, false, true, false, Poor, Blake Gomez, 
+64, 4804, "Piece: hatch
+Cycle: 24.349
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 10.426
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 17.568
+Deposit: drop
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 2, 17.3875, 34.775, 3, 0.3333333333333333, true, false, false, false, 0, success, failure, noattempt, false, true, false, false, true, false, false, false, false, false, false, 7, true, true, false, Average, Dawson Wright, 
+76, 4804, "Piece: hatch
+Cycle: 9.403
+Deposit: ship
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 1, 9.403, 9.403, 1, 0, true, false, false, false, 0, noattempt, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, true, 3, false, true, false, Stellar, Molly Maples, lost power
+88, 4804, "Piece: hatch
+Cycle: 10.807
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 20.009
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 50.401
+Deposit: rocket
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 1, 50.401, 50.401, 3, 0.6666666666666666, false, false, false, false, 0, success, noattempt, success, false, true, false, false, true, false, false, false, false, false, false, 6, true, false, false, Average, Jaiden, 

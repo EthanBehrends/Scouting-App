@@ -1,0 +1,148 @@
+4, 2830, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, noattempt, success, noattempt, false, true, false, false, false, false, false, false, false, false, false, 5, false, false, true, Poor, Quinlan, 
+17, 2830, "Piece: hatch
+Cycle: 15.145
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.468
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.502
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.552
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.602
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.501
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.468
+Deposit: ship
+Sandstorm: false
+", 2, right, 6, 0.5155, 3.093, 1, 15.145, 15.145, 7, 0, true, false, true, false, 1, success, success, noattempt, true, false, false, false, false, false, false, false, false, false, true, 7, false, true, false, Average, Charlie Bergdall, 
+23, 2830, "Piece: hatch
+Cycle: 17.404
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 24.696
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 14.354
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 14.58
+Deposit: drop
+Sandstorm: false
+", 1, left, 1, 14.354, 14.354, 1, 17.404, 17.404, 4, 0.5, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, true, 4, false, true, false, Average, Alex Kocour, 
+29, 2830, "Piece: hatch
+Cycle: 82.719
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 13.449
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.293
+Deposit: ship
+Sandstorm: false
+", 2, right, 2, 10.371, 20.742, 1, 82.719, 82.719, 3, 0, true, false, true, false, 0, success, success, noattempt, true, true, false, false, true, false, false, false, false, false, true, 8, false, true, true, Stellar, Brandon G., 
+42, 2830, "Piece: hatch
+Cycle: 99.699
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 11.359
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 0.732
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 21.233
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.434
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 5.491
+Deposit: drop
+Sandstorm: false
+", 2, left, 3, 11.341999999999999, 34.025999999999996, 1, 99.699, 99.699, 6, 0.3333333333333333, true, false, true, false, 2, failure, failure, noattempt, true, false, false, false, true, false, false, false, false, false, true, 6, false, true, false, Average, Henry Walston, 
+47, 2830, "Piece: hatch
+Cycle: 11.294
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 10.131
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 9.242
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 7.157
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 7.216
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 9.149
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 7.068
+Deposit: drop
+Sandstorm: true
+", 2, left, 2, 7.1865000000000006, 14.373000000000001, 4, 9.954, 39.816, 7, 0.14285714285714285, true, false, true, false, 6, success, failure, undefined, true, true, false, false, true, true, false, false, false, false, true, 6, true, true, false, Average, Abby, 
+67, 2830, "Piece: hatch
+Cycle: 13.094
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 1.511
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 9.284
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.286
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 11.094
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.516
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 15.291
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 13.369
+Deposit: ship
+Sandstorm: false
+", 2, right, 6, 11.306666666666667, 67.84, 1, 13.094, 13.094, 8, 0.125, true, false, true, false, 1, noattempt, failure, noattempt, true, true, false, false, true, false, false, false, false, false, true, 8, false, true, false, Average, Dawson Wright, 
+74, 2830, "", 1, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, failure, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 5, false, false, true, Stellar, Molly Maples, 

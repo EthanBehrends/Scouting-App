@@ -1,0 +1,17 @@
+6, 397, "Piece: hatch
+Cycle: 4.595
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 1.529
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 57.05
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 0.661
+Deposit: rocket
+Sandstorm: false
+", 1, left, 1, 57.05, 57.05, 3, 2.2616666666666667, 6.785, 4, 0, true, false, true, false, 1, undefined, undefined, success, true, true, false, false, true, true, true, true, true, true, false, 4, true, false, false, Poor, Teo Rosales, 

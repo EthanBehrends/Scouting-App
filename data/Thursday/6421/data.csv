@@ -1,0 +1,42 @@
+17, 6421, "Piece: hatch
+Cycle: 105.343
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 8.023
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 13.079
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 3.886
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 1.952
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 4.232
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.199
+Deposit: ship
+Sandstorm: false
+", 2, middle, 3, 3.1056666666666666, 9.317, 3, 32.09925, 96.29775, 6, 0, true, false, true, false, 1, noattempt, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, undefined, false, 6, false, false, false, N/A, 
+33, 6421, "Piece: hatch
+Cycle: 10.635
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 12.564
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 3.446
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, 10.635, 0, 2, 0.6666666666666666, false, true, true, false, 0, failure, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, undefined, true, 6, true, true, false, Average, 

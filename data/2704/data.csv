@@ -1,0 +1,16 @@
+7, 2704, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Average, Leah Wellman, 
+12, 2704, "Piece: hatch
+Cycle: 32.763
+Deposit: ship
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 1, 32.763, 32.763, 1, 0, false, true, true, false, 1, success, failure, failure, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Poor, Teo Rosales, 
+12, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, true, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Average, Brandon G., Tie
+22, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, true, true, false, 0, noattempt, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, N/A, Quinlan, They actually can’t hold anything and didn’t start with a hatch. They disconnected shortly after sandstorm 
+28, 2704, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Charlie Bergdall, 
+28, 2704, "", 0, N/A, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Charlie Bergdall, 
+44, 2704, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Charlie Bergdall, 
+49, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 5, false, false, true, Poor, Brandon G., 
+58, 2704, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Charlie Bergdall, 
+66, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, noattempt, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, Poor, Quinlan, Disconnected for entire match 
+77, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, failure, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Charlie Bergdall, 
+88, 2704, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, success, success, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Average, Ryan Hovey, 

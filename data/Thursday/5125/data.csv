@@ -1,0 +1,122 @@
+8, 5125, "Piece: hatch
+Cycle: 26.15
+Deposit: drop
+Sandstorm: true
+", 1, left, 0, NaN, NaN, 0, NaN, NaN, 0, 1, true, false, true, false, 1, noattempt, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, undefined, false, 4, false, false, false, Poor, 
+10, 5125, "Piece: hatch
+Cycle: 44.567
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 11.917
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 6.109
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 8.842
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 5.25
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 9.35
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 7.523
+Deposit: ship
+Sandstorm: false
+", 1, right, 2, 6.816, 13.632, 2, 44.567, 89.134, 6, 0.5714285714285714, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, false, false, false, false, false, false, undefined, true, 4, false, true, false, Average, 
+17, 5125, "Piece: hatch
+Cycle: 8.694
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 19.41
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 12.422
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 3.07
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 5.274
+Deposit: drop
+Sandstorm: true
+", 2, right, 1, 19.41, 19.41, 1, 7.746, 7.746, 4, 0.4, true, false, true, false, 5, success, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, undefined, false, 4, true, false, false, Average, 
+18, 5125, "Piece: hatch
+Cycle: 24.719
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 17.686
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 21.299
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 4.973
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 16.071
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 15.851
+Deposit: drop
+Sandstorm: false
+", 2, right, 3, 18.352, 55.056, 3, 4.973, 14.919, 5, 0.3333333333333333, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, undefined, true, 4, false, true, false, Average, 
+21, 5125, "Piece: hatch
+Cycle: 8.486
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 35.854
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 12.516
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 19.559
+Deposit: ship
+Sandstorm: true
+", 2, right, 3, 22.643, 67.929, 3, 8.486, 25.458000000000002, 3, 0, true, false, true, false, 4, success, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, undefined, true, 7, false, true, false, Stellar, 
+35, 5125, "Piece: hatch
+Cycle: 8.635
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 30.706
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.693
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.221
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 29.774
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 5.479
+Deposit: drop
+Sandstorm: false
+", 2, left, 3, 13.873333333333335, 41.620000000000005, 3, NaN, NaN, 5, 0.5, true, false, false, false, 0, failure, failure, failure, true, true, true, false, true, true, false, false, false, false, undefined, true, 4, false, true, false, Average, Got stuck on an ally’s third level climber and resulted in both failing to climb to any level.

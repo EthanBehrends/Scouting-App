@@ -1,0 +1,64 @@
+11, 706, "Piece: hatch
+Cycle: 25.868
+Deposit: ship
+Sandstorm: false
+Piece: hatch
+Cycle: 24.527
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 13.358
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 40.402
+Deposit: ship
+Sandstorm: false
+", 2, middle, 0, NaN, NaN, 0, 26.03875, 0, 3, 0, true, false, true, false, 0, noattempt, noattempt, noattempt, false, true, false, false, true, false, true, false, true, false, undefined, false, 6, true, false, false, Average, 
+20, 706, "Piece: hatch
+Cycle: 26.192
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 6.264
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 11.635
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 12.983
+Deposit: rocket
+Sandstorm: false
+", 1, N/A, 0, NaN, NaN, 0, 14.2685, 0, 3, 0, true, false, true, false, 0, success, noattempt, noattempt, false, true, false, false, true, false, true, false, true, false, undefined, false, 7, true, false, false, Stellar, Assisted team to level 3
+20, 706, "Piece: hatch
+Cycle: 6.708
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 3.274
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 0.453
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 0.385
+Deposit: rocket
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, 2.7049999999999996, 0, 3, 0, true, false, true, false, 1, success, noattempt, noattempt, false, true, false, false, true, false, true, false, false, false, undefined, false, 10, true, false, false, Average, Lvl 3 assist climb
+30, 706, "Piece: hatch
+Cycle: 3.547
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 0.236
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 5.31
+Deposit: rocket
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 0, 4.4285, 0, 2, 0.3333333333333333, true, false, true, false, 1, success, noattempt, noattempt, true, true, true, false, true, true, true, false, true, false, undefined, false, 4, true, false, false, Stellar, 

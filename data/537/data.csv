@@ -1,0 +1,118 @@
+1, 537, "Piece: hatch
+Cycle: 69.249
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, Quinlan, They dropped all the game pieces they got and couldn’t line up to score anywhere so I’m not sure what their strategy was
+1, 537, "Piece: hatch
+Cycle: 69.249
+Deposit: drop
+Sandstorm: false
+", 1, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, false, 4, false, false, false, Poor, Quinlan, They dropped all the game pieces they got and couldn’t line up to score anywhere so I’m not sure what their strategy was
+10, 537, "Piece: hatch
+Cycle: 16.359
+Deposit: drop
+Sandstorm: true
+", 1, left, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, false, 3, false, true, true, Average, Dawson Wright, 
+21, 537, "Piece: hatch
+Cycle: 7.697
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 20.695
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 21.045
+Deposit: ship
+Sandstorm: false
+", 1, left, 1, 21.045, 21.045, 0, NaN, NaN, 3, 0.6666666666666666, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, true, true, false, false, false, false, true, 4, false, true, false, Poor, Brandon G., 
+32, 537, "Piece: hatch
+Cycle: 14.988
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 3.111
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 22.885
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 7.608
+Deposit: ship
+Sandstorm: false
+", 1, left, 3, 11.201333333333332, 33.604, 0, NaN, NaN, 4, 0.25, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, true, true, false, false, false, false, true, 3, true, true, false, Average, Molly Maples, 
+38, 537, "Piece: hatch
+Cycle: 30.542
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.401
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 32.703
+Deposit: drop
+Sandstorm: false
+", 1, right, 1, 0.401, 0.401, 1, 30.542, 30.542, 3, 0.3333333333333333, true, false, true, false, 0, noattempt, noattempt, noattempt, true, true, false, false, true, true, false, false, false, false, true, 6, true, true, false, Average, Charlie Bergdall, 
+47, 537, "Piece: hatch
+Cycle: 24.319
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 22.081
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 15.847
+Deposit: drop
+Sandstorm: false
+", 1, left, 0, NaN, NaN, 1, 24.319, 24.319, 3, 0.6666666666666666, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, true, false, false, false, false, false, true, 1, false, true, false, Average, Blake Gomez, 
+63, 537, "Piece: hatch
+Cycle: 26.987
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 16.285
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 15.399
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 11.708
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 12.456
+Deposit: ship
+Sandstorm: true
+", 1, left, 4, 13.962, 55.848, 0, NaN, NaN, 5, 0.2, true, false, true, false, 4, success, undefined, undefined, true, true, true, false, true, true, false, false, false, false, true, 5, false, true, false, Average, Abby, 
+70, 537, "Piece: hatch
+Cycle: 7.46
+Deposit: rocket
+Sandstorm: true
+", 1, right, 0, NaN, NaN, 1, 7.46, 7.46, 1, 0, true, undefined, true, false, 1, success, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, false, false, true, Average, Blake Gomez, Caused massive cluster on one side of field
+89, 537, "Piece: hatch
+Cycle: 27.126
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 5.219
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 25.038
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 4.925
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 17.877
+Deposit: drop
+Sandstorm: false
+", 1, left, 2, 14.9815, 29.963, 1, 27.126, 27.126, 5, 0.4, true, false, true, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, false, N/A, Melvin Loo, 

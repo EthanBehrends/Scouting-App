@@ -1,0 +1,214 @@
+3, 3418, "Piece: hatch
+Cycle: 4.124
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 9.893
+Deposit: rocket
+Sandstorm: true
+Piece: hatch
+Cycle: 6.666
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 14.451
+Deposit: rocket
+Sandstorm: true
+Piece: cargo
+Cycle: 28.944
+Deposit: rocket
+Sandstorm: true
+", 1, middle, 1, 28.944, 28.944, 3, 9.489333333333333, 28.467999999999996, 5, 0.2, true, false, true, false, 4, undefined, undefined, undefined, false, false, false, false, true, true, false, false, false, false, false, 4, true, false, false, Poor, Dawson Wright, Only first happened in sandstorm
+15, 3418, "Piece: hatch
+Cycle: 10.735
+Deposit: drop
+Sandstorm: true
+Piece: hatch
+Cycle: 0.502
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 0.451
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.452
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.435
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.619
+Deposit: rocket
+Sandstorm: false
+", 2, right, 3, 0.502, 1.506, 2, 0.47650000000000003, 0.9530000000000001, 6, 0.16666666666666666, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, true, true, true, false, false, true, true, false, 7, true, false, false, Average, Charlie Bergdall, 
+23, 3418, "Piece: hatch
+Cycle: 142.297
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 13.865
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 17.529
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 15.145
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 1.473
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 5.425
+Deposit: ship
+Sandstorm: false
+", 2, right, 4, 9.892999999999999, 39.571999999999996, 2, 78.081, 156.162, 6, 0, true, false, true, false, 0, success, noattempt, noattempt, true, true, true, false, true, true, true, true, false, false, true, 7, true, true, false, Average, Brandon G., 
+28, 3418, "Piece: hatch
+Cycle: 53.633
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 4.883
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 15.973
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 16.443
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 2.35
+Deposit: ship
+Sandstorm: false
+", 2, left, 1, 2.35, 2.35, 1, 53.633, 53.633, 5, 0.6, true, false, false, true, 0, success, noattempt, noattempt, true, true, true, true, false, false, true, false, false, false, true, 5, true, true, false, Average, Quinlan, They actually started with a hatch but it fell when they drove off of level 2. They have a ground hatch intake but they can’t work it very well 
+37, 3418, "Piece: hatch
+Cycle: 19.496
+Deposit: ship
+Sandstorm: true
+Piece: hatch
+Cycle: 10.982
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 2.208
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 7.233
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 4.754
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 5.275
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 7.236
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 10.47
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 6.55
+Deposit: drop
+Sandstorm: false
+", 2, left, 2, 6.2555, 12.511, 4, 11.4255, 45.702, 9, 0.3333333333333333, true, false, false, true, 1, failure, noattempt, noattempt, true, true, false, true, true, false, false, false, true, true, true, 6, true, false, false, Average, Quinlan, In sandstorm they scored in the opposite alliance cargo 
+50, 3418, "Piece: hatch
+Cycle: 45.025
+Deposit: ship
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 1, 45.025, 45.025, 1, 0, true, false, false, true, 0, noattempt, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, true, 7, false, true, false, Poor, Charlie Bergdall, Got stuck in the cargo ship
+59, 3418, "Piece: hatch
+Cycle: 17.896
+Deposit: drop
+Sandstorm: false
+Piece: hatch
+Cycle: 9.283
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 7.851
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 12.109
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 9.921
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 9.593
+Deposit: rocket
+Sandstorm: false
+Piece: hatch
+Cycle: 3.517
+Deposit: drop
+Sandstorm: false
+", 2, left, 0, NaN, NaN, 5, 9.7514, 48.757000000000005, 7, 0.2857142857142857, true, false, false, false, 0, noattempt, noattempt, noattempt, false, true, false, true, true, false, true, false, true, false, false, 6, true, false, false, Average, Leah Wellman, 
+72, 3418, "Piece: hatch
+Cycle: 26.669
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 24.586
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.385
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 19.159
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 16.652
+Deposit: ship
+Sandstorm: false
+", 1, middle, 3, 20.13233333333333, 60.39699999999999, 1, 26.669, 26.669, 5, 0.2, true, true, false, true, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 5, false, true, false, Average, Charlie Bergdall, 
+77, 3418, "Piece: hatch
+Cycle: 29.618
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 47.205
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 11.406
+Deposit: drop
+Sandstorm: false
+", 1, middle, 1, 47.205, 47.205, 1, 29.618, 29.618, 3, 0.3333333333333333, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, true, 3, false, true, false, Average, Dawson Wright, Good defense by 6670 on them
+85, 3418, "Piece: hatch
+Cycle: 145.83
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.262
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 9.654
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 0.378
+Deposit: ship
+Sandstorm: false
+", 1, middle, 3, 3.764666666666667, 11.294, 1, 145.83, 145.83, 4, 0, true, false, false, true, 0, success, noattempt, noattempt, true, false, true, false, false, false, false, false, false, false, true, 7, false, true, false, Average, Teo Rosales, 

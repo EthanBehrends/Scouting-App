@@ -1,0 +1,14 @@
+20, 3381, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, -1, NaN, true, false, false, false, 0, failure, undefined, noattempt, false, false, false, false, false, false, false, false, false, false, undefined, false, 1, false, false, false, Poor, 
+31, 3381, "Piece: cargo
+Cycle: 9.726
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 14.923
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.866
+Deposit: rocket
+Sandstorm: false
+", 1, right, 2, 5.296, 10.592, 2, NaN, NaN, 2, 0.3333333333333333, false, true, false, false, 0, success, noattempt, noattempt, true, false, true, false, false, true, false, true, false, true, undefined, true, 7, true, true, false, Average, 

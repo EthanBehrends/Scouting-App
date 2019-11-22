@@ -1,0 +1,99 @@
+2, 7900, "Piece: hatch
+Cycle: 12.408
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 24.573
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 3.014
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 5.341
+Deposit: drop
+Sandstorm: false
+", 1, left, 1, 24.573, 24.573, 0, NaN, NaN, 4, 0.75, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, true, false, false, false, false, false, true, 4, false, true, false, Average, Ryan Hovey, 
+12, 7900, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, success, noattempt, failure, false, false, false, false, false, false, false, false, false, false, false, 5, false, false, true, Average, Chase Harriman, 
+19, 7900, "Piece: hatch
+Cycle: 99.615
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, noattempt, noattempt, noattempt, true, true, false, false, true, false, false, false, false, false, true, 2, false, true, false, Poor, Brandon G., 
+19, 7900, "", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, true, false, 0, noattempt, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 2, false, false, false, Poor, Teo Rosales, Epically failed  sadly 
+30, 7900, "Piece: hatch
+Cycle: 41.201
+Deposit: rocket
+Sandstorm: false
+Piece: cargo
+Cycle: 0.402
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.569
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 0.485
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 1, 41.201, 41.201, 4, 0.75, true, false, true, false, 0, success, noattempt, noattempt, true, true, false, false, true, false, false, false, false, false, false, 4, false, true, false, Poor, Charlie Bergdall, 
+38, 7900, "Piece: hatch
+Cycle: 23.8
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 28.969
+Deposit: ship
+Sandstorm: true
+", 1, middle, 1, 28.969, 28.969, 1, 23.8, 23.8, 2, 0, true, false, false, true, 2, failure, noattempt, noattempt, true, true, true, false, true, true, false, false, false, false, true, 4, false, true, true, Poor, Kyle, They decided it would be a great idea to be the second defense bot.
+51, 7900, "Piece: hatch
+Cycle: 45.213
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 6.617
+Deposit: drop
+Sandstorm: false
+", 1, middle, 0, NaN, NaN, 0, NaN, NaN, 2, 1, true, false, false, true, 0, success, noattempt, noattempt, true, true, false, false, false, false, false, false, false, false, false, 3, false, false, false, Average, Dawson Wright, Held 2 pieces at one time (hath and cargo)
+61, 7900, "Piece: hatch
+Cycle: 86.999
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 14.642
+Deposit: ship
+Sandstorm: true
+Piece: cargo
+Cycle: 19.529
+Deposit: drop
+Sandstorm: true
+", 2, right, 1, 14.642, 14.642, 0, NaN, NaN, 3, 0.6666666666666666, true, false, false, true, 1, success, noattempt, noattempt, true, false, false, false, false, true, false, false, false, false, true, 4, false, true, false, Average, Henry Walston, 2 bots on the other team lost connection 
+65, 7900, "Piece: hatch
+Cycle: 2.897
+Deposit: drop
+Sandstorm: true
+", 2, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, false, 3, false, false, true, Average, Dawson Wright, 
+75, 7900, "Piece: hatch
+Cycle: 4.249
+Deposit: drop
+Sandstorm: true
+Piece: cargo
+Cycle: 17.786
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 1.567
+Deposit: drop
+Sandstorm: false
+Piece: cargo
+Cycle: 2.117
+Deposit: ship
+Sandstorm: false
+Piece: cargo
+Cycle: 10.278
+Deposit: drop
+Sandstorm: false
+", 2, right, 2, 9.951500000000001, 19.903000000000002, 0, NaN, NaN, 5, 0.6, true, false, false, true, 0, success, noattempt, noattempt, true, false, false, false, false, false, false, false, false, false, true, 3, false, true, false, Poor, Quinlan, 
+82, 7900, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, undefined, false, true, 0, success, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, false, 5, false, false, true, Average, Autumn Judd, 

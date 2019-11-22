@@ -1,0 +1,16 @@
+3, 6670, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, undefined, false, 0, failure, noattempt, noattempt, false, true, false, false, true, false, false, false, false, false, false, 5, false, false, true, Average, Ryan Hovey, 
+17, 6670, "Piece: hatch
+Cycle: 69.022
+Deposit: drop
+Sandstorm: false
+", 2, right, 0, NaN, NaN, 0, NaN, NaN, 1, 1, true, false, true, false, 0, noattempt, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, false, 2, false, false, false, Poor, Kyle, 6670 was disabled and they actually started lvl 1 mid.
+25, 6670, "", 1, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, false, true, false, false, 0, undefined, undefined, failure, false, false, false, false, false, false, false, false, false, false, false, 1, false, false, true, Poor, Abby, Do not have climber. Failed to use ramp. 
+30, 6670, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 3, false, false, true, Average, Dawson Wright, 
+30, 6670, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, true, Average, Brandon G., 
+38, 6670, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Poor, Quinlan, 
+48, 6670, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, undefined, undefined, false, false, false, false, false, false, false, false, false, false, false, 6, false, false, true, Average, God, 
+48, 6670, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, true, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Dawson Wright, 
+55, 6670, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 8, false, false, true, Average, Dawson Wright, 
+72, 6670, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, undefined, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 4, false, false, true, Average, Dawson Wright, Manipulator broke, played counter defense on nicolet
+77, 6670, "", 2, left, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, false, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Average, Brandon G., 
+82, 6670, "", 2, right, 0, NaN, NaN, 0, NaN, NaN, 0, NaN, true, true, false, false, 0, success, noattempt, noattempt, false, false, false, false, false, false, false, false, false, false, false, 7, false, false, true, Stellar, Ryan Hovey, Is just a drivetrain, it solely plays defense.
